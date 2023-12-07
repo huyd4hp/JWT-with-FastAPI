@@ -1,4 +1,6 @@
 ## Auth User with JWT
+### Mô tả
+ * Sử dụng JWT để phân quyền người dùng với các chức vụ như Customer/Staff/Manager cho các quyền hạn về người dùng
 ### Công nghệ sử dụng
  * Python (FastAPI)
  * MySQL (Docker)
